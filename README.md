@@ -1,2 +1,2 @@
 # hello-word
-Este repositório é para praticar o fluxo do GitHub
+Estou fazendo uma atividade do professore Egypit
